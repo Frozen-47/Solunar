@@ -120,7 +120,7 @@ Here is a list of the primary variables you can adjust:
 │   └── vencord.css           # Vencord-specific elements (plugins, settings, etc.)
 └── vencord_themes/
     ├── DeathNote.css         # Theme preset: L (Death Note)
-    └── WingsofSilence.css    # Theme preset: Wings of Silence
+    └── WingsofSilence.css    # Theme preset: Wings of Silence 
 ```
 
 ---
